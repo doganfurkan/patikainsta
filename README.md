@@ -1,3 +1,3 @@
 # patikainsta
 
-[https://doganfurkan.github.io/patikainsta/](Website)
+[See Patika Instagram clone](https://doganfurkan.github.io/patikainsta/)
